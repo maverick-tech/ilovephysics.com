@@ -1,3 +1,3 @@
 Welcome !
 
-To know about intersting physics fact visit ilovephysics.com !
+To know about intersting physics facts visit ilovephysics.com !
