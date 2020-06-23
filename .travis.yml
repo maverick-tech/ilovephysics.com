@@ -6,8 +6,7 @@ go:
 - master
 
 script:
- -go build
- -go run
+-go run
 
 deploy:
   provider: heroku
