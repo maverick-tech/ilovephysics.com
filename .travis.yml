@@ -1,1 +1,4 @@
 language: go
+deploy:
+  provider: heroku
+  api_key: "fe975efa-90b9-418e-93cb-87c713b3c163"
