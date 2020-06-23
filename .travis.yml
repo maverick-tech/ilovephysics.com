@@ -5,6 +5,10 @@ go:
 - 1.12.x
 - master
 
+script:
+ -go build
+ -go run
+
 deploy:
   provider: heroku
   api_key:
